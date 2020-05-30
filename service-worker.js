@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/bratanov/precache-manifest.f6210d83bca9170c88ff246a5696b33b.js"
+  "/bratanov/precache-manifest.3c82307eddd51128c65cc81f718a5470.js"
 );
 
 self.addEventListener('message', (event) => {
